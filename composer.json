@@ -60,5 +60,10 @@
     },
     "config": {
         "optimize-autoloader": true
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-composer-2": "1.23.3-dev"
+        }
     }
 }
