@@ -60,5 +60,8 @@
     },
     "config": {
         "optimize-autoloader": true
+    },
+    "replace": {
+       "edgedesign/phpqa":"^1.23.3"
     }
 }
